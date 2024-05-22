@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:komik/data/comic_data.dart';
+// ignore: must_be_immutable
 class PagesComicDetail extends StatelessWidget {
   PagesComicDetail ({required this.chapter, super.key});
 

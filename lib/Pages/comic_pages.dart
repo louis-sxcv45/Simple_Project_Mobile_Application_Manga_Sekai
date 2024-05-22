@@ -3,6 +3,7 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:komik/Pages/pages_comic_detail.dart';
 import 'package:komik/data/comic_data.dart';
 
+// ignore: must_be_immutable
 class ComicPages extends StatelessWidget {
   ComicPages({required this.comic, super.key});
   ComicData comic;

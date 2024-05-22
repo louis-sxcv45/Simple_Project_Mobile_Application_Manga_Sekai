@@ -5,6 +5,7 @@ import 'package:komik/Pages/comic_pages.dart';
 import 'package:komik/Pages/pages_comic_detail.dart';
 import 'package:komik/data/comic_data.dart';
 
+// ignore: must_be_immutable
 class SearchPage extends StatefulWidget {
   SearchPage({required this.comic,super.key});
 
