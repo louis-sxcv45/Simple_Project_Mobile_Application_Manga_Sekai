@@ -1,0 +1,1 @@
+# Simple_Project_Mobile_Application_Manga_Sekai
