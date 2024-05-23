@@ -35,6 +35,7 @@ class _SearchPageState extends State<SearchPage> {
     comic.sort((a, b) => a.title.compareTo(b.title));
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.blueAccent,
         title: Text(
           'Search',
           style: TextStyle(
